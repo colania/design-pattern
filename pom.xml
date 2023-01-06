@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>wwei-demo-design</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>design-01-factory-00</module>
+        <module>design-02-abstract-factory-00</module>
+        <module>design-03-builder-00</module>
+        <module>design-04-prototype-00</module>
+        <module>design-05-singleton-00</module>
+        <module>design-06-adaptor-01</module>
+        <module>design-07-bridge-01</module>
+        <module>design-08-combine-01</module>
+        <module>design-09-decorator-01</module>
+        <module>design-10-door-01</module>
+        <module>design-11-flyweight-01</module>
+        <module>design-12-proxy-01</module>
+        <module>design-13-responsibility-chain-02</module>
+        <module>design-14-command-02</module>
+        <module>design-15-iterator-02</module>
+        <module>design-16-Mediator-02</module>
+        <module>design-17-Memento-02</module>
+        <module>design-18-listener-02</module>
+        <module>design-19-status-02</module>
+        <module>design-20-strategy-02</module>
+        <module>design-21-template-02</module>
+        <module>design-22-pipline-02</module>
+    </modules>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.62</version>
+        </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+            <scope>test</scope>
+        </dependency>
+        <!-- LOGGING begin -->
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>1.7.5</version>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>jcl-over-slf4j</artifactId>
+            <version>1.7.5</version>
+        </dependency>
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-classic</artifactId>
+            <version>1.0.9</version>
+            <exclusions>
+                <exclusion>
+                    <artifactId>slf4j-api</artifactId>
+                    <groupId>org.slf4j</groupId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+    </dependencies>
+
+</project>

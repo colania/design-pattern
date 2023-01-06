@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="design-09-decorator-01" />
+        <module name="design-02-abstract-factory-00" />
+        <module name="design-17-Memento-02" />
+        <module name="design-19-status-02" />
+        <module name="design-04-prototype-00" />
+        <module name="design-10-door-01" />
+        <module name="design-18-listener-02" />
+        <module name="design-06-adaptor-01" />
+        <module name="design-11-flyweight-01" />
+        <module name="design-08-combine-01" />
+        <module name="design-03-builder-00" />
+        <module name="design-05-singleton-00" />
+        <module name="design-12-proxy-01" />
+        <module name="design-14-command-02" />
+        <module name="design-14-command-01" />
+        <module name="design-07-bridge-01" />
+        <module name="design-22-pipline-02" />
+        <module name="design-20-strategy-02" />
+        <module name="design-16-Mediator-01" />
+        <module name="design-16-Mediator-02" />
+        <module name="design-13-responsibility-chain-01" />
+        <module name="design-21-template-02" />
+        <module name="design-13-responsibility-chain-02" />
+        <module name="design-15-iterator-01" />
+        <module name="design-01-factory-00" />
+        <module name="design-15-iterator-02" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="design-13-responsibility-chain-01" target="1.8" />
+      <module name="design-14-command-01" target="1.8" />
+      <module name="design-15-iterator-01" target="1.8" />
+      <module name="design-16-Mediator-01" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

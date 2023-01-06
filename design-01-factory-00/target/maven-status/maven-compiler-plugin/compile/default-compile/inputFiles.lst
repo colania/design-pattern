@@ -1,0 +1,14 @@
+/Users/wwei/learn/bugstack/wwei/wwei-demo-design/1-factory-design-00/src/main/java/indi/wwei/design/demo/store/entity/goods/GoodsService.java
+/Users/wwei/learn/bugstack/wwei/wwei-demo-design/1-factory-design-00/src/main/java/indi/wwei/design/demo/StoreFactory.java
+/Users/wwei/learn/bugstack/wwei/wwei-demo-design/1-factory-design-00/src/main/java/indi/wwei/design/demo/store/entity/goods/DeliverReq.java
+/Users/wwei/learn/bugstack/wwei/wwei-demo-design/1-factory-design-00/src/main/java/indi/wwei/design/demo/store/entity/goods/GoodsInfo.java
+/Users/wwei/learn/bugstack/wwei/wwei-demo-design/1-factory-design-00/src/main/java/indi/wwei/design/demo/store/impl/GoodsCommodityService.java
+/Users/wwei/learn/bugstack/wwei/wwei-demo-design/1-factory-design-00/src/main/java/indi/wwei/design/demo/store/ICommodity.java
+/Users/wwei/learn/bugstack/wwei/wwei-demo-design/1-factory-design-00/src/main/java/indi/wwei/design/demo/store/entity/card/IQiYiCard.java
+/Users/wwei/learn/bugstack/wwei/wwei-demo-design/1-factory-design-00/src/main/java/indi/wwei/design/demo/store/entity/coupon/CouponResult.java
+/Users/wwei/learn/bugstack/wwei/wwei-demo-design/1-factory-design-00/src/main/java/indi/wwei/design/demo/store/entity/coupon/CouponService.java
+/Users/wwei/learn/bugstack/wwei/wwei-demo-design/1-factory-design-00/src/main/java/indi/wwei/design/demo/store/impl/CardCommodityService.java
+/Users/wwei/learn/bugstack/wwei/wwei-demo-design/1-factory-design-00/src/main/java/indi/wwei/design/demo/store/impl/CouponCommodityService.java
+/Users/wwei/learn/bugstack/wwei/wwei-demo-design/1-factory-design-00/src/main/java/indi/wwei/design/demo/store/entity/card/IQiYiCardService.java
+/Users/wwei/learn/bugstack/wwei/wwei-demo-design/1-factory-design-00/src/main/java/indi/wwei/design/package-info.java
+/Users/wwei/learn/bugstack/wwei/wwei-demo-design/1-factory-design-00/src/main/java/indi/wwei/design/demo/store/entity/coupon/CouponInfo.java

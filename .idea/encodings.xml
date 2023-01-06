@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/design-01-factory-00/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-01-factory-00/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-02-abstract-factory-00/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-02-abstract-factory-00/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-03-builder-00/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-03-builder-00/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-04-prototype-00/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-04-prototype-00/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-05-singleton-00/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-05-singleton-00/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-06-adaptor-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-06-adaptor-01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-07-bridge-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-07-bridge-01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-08-combine-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-08-combine-01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-09-decorator-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-09-decorator-01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-10-door-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-10-door-01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-11-flyweight-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-11-flyweight-01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-12-proxy-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-12-proxy-01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-13-responsibility-chain-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-13-responsibility-chain-01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-13-responsibility-chain-02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-13-responsibility-chain-02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-14-command-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-14-command-01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-14-command-02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-14-command-02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-15-iterator-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-15-iterator-01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-15-iterator-02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-15-iterator-02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-16-Mediator-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-16-Mediator-01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-16-Mediator-02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-16-Mediator-02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-17-Memento-02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-17-Memento-02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-18-listener-02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-18-listener-02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-19-status-02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-19-status-02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-20-strategy-02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-20-strategy-02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-21-template-02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-21-template-02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-22-pipline-02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-22-pipline-02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
