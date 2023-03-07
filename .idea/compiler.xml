@@ -13,6 +13,7 @@
         <module name="design-04-prototype-00" />
         <module name="design-10-door-01" />
         <module name="design-18-listener-02" />
+        <module name="design-23-slidingWindow" />
         <module name="design-06-adaptor-01" />
         <module name="design-11-flyweight-01" />
         <module name="design-08-combine-01" />

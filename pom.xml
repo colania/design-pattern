@@ -31,6 +31,7 @@
         <module>design-20-strategy-02</module>
         <module>design-21-template-02</module>
         <module>design-22-pipline-02</module>
+        <module>design-23-slidingWindow</module>
     </modules>
 
     <properties>
